@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nom\ ar\ diaN\ mesN\ a\u00F1oN\ diaD\ mesD\ a\u00F1oD
+comment0.target=Persona(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=M\u00E9todos\ constructores
+comment1.params=per
+comment1.target=Persona\ buscarPersona(java.lang.String)
+comment1.text=Metodos\ de\ manipulaci\u00F3n\ de\ fichas
+comment2.params=
+comment2.target=void\ borraFicha()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ listarPersonas()
+comment5.params=
+comment5.target=void\ listaCoet()
+comment6.params=
+comment6.target=void\ listarPersonasArea()
+numComments=7
